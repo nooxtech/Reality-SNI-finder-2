@@ -14,6 +14,6 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
-warriorludo.com:
-knowledgebay.net:
+warriorludo.com
+knowledgebay.net
 sahyadrihospital.c
